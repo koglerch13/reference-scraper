@@ -1,0 +1,18 @@
+{
+  "name": "reference-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Christian Kogler",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs": "0.0.2",
+    "lodash": "^4.6.1",
+    "progress": "^1.1.8",
+    "website-scraper": "^0.3.2"
+  }
+}
